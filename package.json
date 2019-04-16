@@ -1,0 +1,23 @@
+{
+  "name": "react-native-clear-cache-core",
+  "version": "1.0.0",
+  "description": "A ReactNative ClearCache Component for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "Clear Cache",
+    "iOS",
+    "Android"
+  ],
+  "author": {
+    "name": "DarklyCoder",
+    "email": "1319203686@qq.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.59.0"
+  }
+}
