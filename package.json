@@ -1,6 +1,6 @@
 {
   "name": "react-native-clear-cache-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ReactNative ClearCache Component for android and iOS",
   "main": "index.js",
   "scripts": {
